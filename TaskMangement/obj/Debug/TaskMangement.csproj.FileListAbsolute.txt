@@ -1,0 +1,392 @@
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe.config
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.pdb
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csprojResolveAssemblyReference.cache
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMain.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.Properties.Resources.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.GenerateResource.Cache
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.CoreCompileInputs.cache
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.pdb
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmLogEntry.resources
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Images.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe.licenses
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmPeriodicallyUpdate.resources
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTransferTest.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMilestoneCreate.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmLogin.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmCompleteTicket.resources
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Shared.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\FlashControlV71.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\ShockwaveFlashObjects.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\stdole.dll
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmReportShow.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserRegistration.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmProblemSetup.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmSolutionSetup.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserPermission.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmNewFormSetup.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMilestoneHistory.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmPeriodicallyUpdateHistory.resources
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTest.resources
+E:\Task Application\TaskMangement\TaskMangement\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMainLayout.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe.config
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\TaskMangement.pdb
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Shared.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\FlashControlV71.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ShockwaveFlashObjects.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\stdole.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csprojResolveAssemblyReference.cache
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmCompleteTicket.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmLogEntry.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmLogin.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMilestoneHistory.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmNewFormSetup.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmPeriodicallyUpdate.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMilestoneCreate.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmPeriodicallyUpdateHistory.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmProblemSetup.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmReportShow.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmSolutionSetup.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTest.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTransferTest.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMain.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserPermission.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserRegistration.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMainLayout.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.Properties.Resources.resources
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.GenerateResource.Cache
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe.licenses
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.CoreCompileInputs.cache
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.pdb
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Images.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\Jashim\Working\Task Application\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTest2.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csprojResolveAssemblyReference.cache
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmLogin.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmNewFormSetup.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmReportShow.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserPermission.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmUserRegistration.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmMainLayout.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.Properties.Resources.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.GenerateResource.Cache
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe.licenses
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.csproj.CoreCompileInputs.cache
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.exe
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.pdb
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe.config
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\TaskMangement.exe
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\TaskMangement.pdb
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Shared.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Images.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\FlashControlV71.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ShockwaveFlashObjects.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\stdole.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Data.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmTokenInfo.resources
+E:\Jashim\Working\Token\TaskMangement\TaskMangement\obj\Debug\TaskMangement.frmToken_Group.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmLogin.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmReportShow.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmTokenInfo.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmToken_Group.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmToken_ItemName.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmMainLayout.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.Properties.Resources.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.csproj.GenerateResource.Cache
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.exe.licenses
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.csproj.CoreCompileInputs.cache
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.exe
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.pdb
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\TaskMangement.exe.config
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\TaskMangement.exe
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\TaskMangement.pdb
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.Shared.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Data.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Images.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\FlashControlV71.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ShockwaveFlashObjects.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\stdole.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Data.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmTokenInfo_Update.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.frmTokenInfoReport.resources
+E:\Jashim\Working\Token\TokenApplication\TaskMangement\obj\Debug\TaskMangement.csprojResolveAssemblyReference.cache

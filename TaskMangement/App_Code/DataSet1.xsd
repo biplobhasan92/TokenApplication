@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.TaskMangement.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OracleClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString1 (Settings)" PropertyReference="ApplicationSettings.TaskMangement.Properties.Settings.GlobalReference.Default.ConnectionString1" Provider="System.Data.OracleClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PRD_TOKENINFO_ITEMTableAdapter" GeneratorDataComponentClassName="VW_PRD_TOKENINFO_ITEMTableAdapter" Name="VW_PRD_TOKENINFO_ITEM" UserDataComponentName="VW_PRD_TOKENINFO_ITEMTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="ERP.VW_PRD_TOKENINFO_ITEM" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, ITEM_NAME, UNIT_PRICE, GROUP_ID FROM ERP.VW_PRD_TOKENINFO_ITEM</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="ITEM_NAME" DataSetColumn="ITEM_NAME" />
+              <Mapping SourceColumn="UNIT_PRICE" DataSetColumn="UNIT_PRICE" />
+              <Mapping SourceColumn="GROUP_ID" DataSetColumn="GROUP_ID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PRD_TOKENINFO_SUMMARYTableAdapter" GeneratorDataComponentClassName="VW_PRD_TOKENINFO_SUMMARYTableAdapter" Name="VW_PRD_TOKENINFO_SUMMARY" UserDataComponentName="VW_PRD_TOKENINFO_SUMMARYTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="ERP.VW_PRD_TOKENINFO_SUMMARY" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EMP_ID, TOKEN_ID, VEMPNAME, VDESIGNATIONNAME, VDEPARTMENTNAME, VUNITNAME, GROUP_ID, SELLDATE, ITEMQTY, UNIT_PRICE FROM ERP.VW_PRD_TOKENINFO_SUMMARY</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMP_ID" DataSetColumn="EMP_ID" />
+              <Mapping SourceColumn="TOKEN_ID" DataSetColumn="TOKEN_ID" />
+              <Mapping SourceColumn="VEMPNAME" DataSetColumn="VEMPNAME" />
+              <Mapping SourceColumn="VDESIGNATIONNAME" DataSetColumn="VDESIGNATIONNAME" />
+              <Mapping SourceColumn="VDEPARTMENTNAME" DataSetColumn="VDEPARTMENTNAME" />
+              <Mapping SourceColumn="VUNITNAME" DataSetColumn="VUNITNAME" />
+              <Mapping SourceColumn="GROUP_ID" DataSetColumn="GROUP_ID" />
+              <Mapping SourceColumn="SELLDATE" DataSetColumn="SELLDATE" />
+              <Mapping SourceColumn="ITEMQTY" DataSetColumn="ITEMQTY" />
+              <Mapping SourceColumn="UNIT_PRICE" DataSetColumn="UNIT_PRICE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PRD_TOKENINFO_DETAILSTableAdapter" GeneratorDataComponentClassName="VW_PRD_TOKENINFO_DETAILSTableAdapter" Name="VW_PRD_TOKENINFO_DETAILS" UserDataComponentName="VW_PRD_TOKENINFO_DETAILSTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="ERP.VW_PRD_TOKENINFO_DETAILS" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EMP_ID, TOKEN_ID, VEMPNAME, VDESIGNATIONNAME, VDEPARTMENTNAME, VUNITNAME, ITEM_NAME, ITEMQTY, UNIT_PRICE, SELLDATE, GROUP_ID FROM ERP.VW_PRD_TOKENINFO_DETAILS</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMP_ID" DataSetColumn="EMP_ID" />
+              <Mapping SourceColumn="TOKEN_ID" DataSetColumn="TOKEN_ID" />
+              <Mapping SourceColumn="VEMPNAME" DataSetColumn="VEMPNAME" />
+              <Mapping SourceColumn="VDESIGNATIONNAME" DataSetColumn="VDESIGNATIONNAME" />
+              <Mapping SourceColumn="VDEPARTMENTNAME" DataSetColumn="VDEPARTMENTNAME" />
+              <Mapping SourceColumn="VUNITNAME" DataSetColumn="VUNITNAME" />
+              <Mapping SourceColumn="ITEM_NAME" DataSetColumn="ITEM_NAME" />
+              <Mapping SourceColumn="ITEMQTY" DataSetColumn="ITEMQTY" />
+              <Mapping SourceColumn="UNIT_PRICE" DataSetColumn="UNIT_PRICE" />
+              <Mapping SourceColumn="SELLDATE" DataSetColumn="SELLDATE" />
+              <Mapping SourceColumn="GROUP_ID" DataSetColumn="GROUP_ID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PRD_TOKENINFOLISTTableAdapter" GeneratorDataComponentClassName="VW_PRD_TOKENINFOLISTTableAdapter" Name="VW_PRD_TOKENINFOLIST" UserDataComponentName="VW_PRD_TOKENINFOLISTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="ERP.VW_PRD_TOKENINFOLIST" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EMP_ID, TOKEN_ID, VEMPNAME, VDESIGNATIONNAME, VDEPARTMENTNAME, VUNITNAME, GROUP_ID, ADD_DATE FROM ERP.VW_PRD_TOKENINFOLIST</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMP_ID" DataSetColumn="EMP_ID" />
+              <Mapping SourceColumn="TOKEN_ID" DataSetColumn="TOKEN_ID" />
+              <Mapping SourceColumn="VEMPNAME" DataSetColumn="VEMPNAME" />
+              <Mapping SourceColumn="VDESIGNATIONNAME" DataSetColumn="VDESIGNATIONNAME" />
+              <Mapping SourceColumn="VDEPARTMENTNAME" DataSetColumn="VDEPARTMENTNAME" />
+              <Mapping SourceColumn="VUNITNAME" DataSetColumn="VUNITNAME" />
+              <Mapping SourceColumn="GROUP_ID" DataSetColumn="GROUP_ID" />
+              <Mapping SourceColumn="ADD_DATE" DataSetColumn="ADD_DATE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PRD_TOKENINFOTableAdapter" GeneratorDataComponentClassName="VW_PRD_TOKENINFOTableAdapter" Name="VW_PRD_TOKENINFO" UserDataComponentName="VW_PRD_TOKENINFOTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (Settings)" DbObjectName="ERP.VW_PRD_TOKENINFO" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EMP_ID, TOKEN_ID, GROUP_ID, VEMPNAME, VDEPARTMENTNAME, VDESIGNATIONNAME, VUNITNAME, COMMENTS, ADD_USER FROM ERP.VW_PRD_TOKENINFO</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMP_ID" DataSetColumn="EMP_ID" />
+              <Mapping SourceColumn="TOKEN_ID" DataSetColumn="TOKEN_ID" />
+              <Mapping SourceColumn="GROUP_ID" DataSetColumn="GROUP_ID" />
+              <Mapping SourceColumn="VEMPNAME" DataSetColumn="VEMPNAME" />
+              <Mapping SourceColumn="VDEPARTMENTNAME" DataSetColumn="VDEPARTMENTNAME" />
+              <Mapping SourceColumn="VDESIGNATIONNAME" DataSetColumn="VDESIGNATIONNAME" />
+              <Mapping SourceColumn="VUNITNAME" DataSetColumn="VUNITNAME" />
+              <Mapping SourceColumn="COMMENTS" DataSetColumn="COMMENTS" />
+              <Mapping SourceColumn="ADD_USER" DataSetColumn="ADD_USER" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VW_PRD_TOKENINFO_ITEM" msprop:Generator_TableClassName="VW_PRD_TOKENINFO_ITEMDataTable" msprop:Generator_TableVarName="tableVW_PRD_TOKENINFO_ITEM" msprop:Generator_RowChangedName="VW_PRD_TOKENINFO_ITEMRowChanged" msprop:Generator_TablePropName="VW_PRD_TOKENINFO_ITEM" msprop:Generator_RowDeletingName="VW_PRD_TOKENINFO_ITEMRowDeleting" msprop:Generator_RowChangingName="VW_PRD_TOKENINFO_ITEMRowChanging" msprop:Generator_RowEvHandlerName="VW_PRD_TOKENINFO_ITEMRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PRD_TOKENINFO_ITEMRowDeleted" msprop:Generator_RowClassName="VW_PRD_TOKENINFO_ITEMRow" msprop:Generator_UserTableName="VW_PRD_TOKENINFO_ITEM" msprop:Generator_RowEvArgName="VW_PRD_TOKENINFO_ITEMRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEM_NAME" msprop:Generator_ColumnVarNameInTable="columnITEM_NAME" msprop:Generator_ColumnPropNameInRow="ITEM_NAME" msprop:Generator_ColumnPropNameInTable="ITEM_NAMEColumn" msprop:Generator_UserColumnName="ITEM_NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UNIT_PRICE" msprop:Generator_ColumnVarNameInTable="columnUNIT_PRICE" msprop:Generator_ColumnPropNameInRow="UNIT_PRICE" msprop:Generator_ColumnPropNameInTable="UNIT_PRICEColumn" msprop:Generator_UserColumnName="UNIT_PRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GROUP_ID" msprop:Generator_ColumnVarNameInTable="columnGROUP_ID" msprop:Generator_ColumnPropNameInRow="GROUP_ID" msprop:Generator_ColumnPropNameInTable="GROUP_IDColumn" msprop:Generator_UserColumnName="GROUP_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_PRD_TOKENINFO_SUMMARY" msprop:Generator_TableClassName="VW_PRD_TOKENINFO_SUMMARYDataTable" msprop:Generator_TableVarName="tableVW_PRD_TOKENINFO_SUMMARY" msprop:Generator_TablePropName="VW_PRD_TOKENINFO_SUMMARY" msprop:Generator_RowDeletingName="VW_PRD_TOKENINFO_SUMMARYRowDeleting" msprop:Generator_RowChangingName="VW_PRD_TOKENINFO_SUMMARYRowChanging" msprop:Generator_RowEvHandlerName="VW_PRD_TOKENINFO_SUMMARYRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PRD_TOKENINFO_SUMMARYRowDeleted" msprop:Generator_UserTableName="VW_PRD_TOKENINFO_SUMMARY" msprop:Generator_RowChangedName="VW_PRD_TOKENINFO_SUMMARYRowChanged" msprop:Generator_RowEvArgName="VW_PRD_TOKENINFO_SUMMARYRowChangeEvent" msprop:Generator_RowClassName="VW_PRD_TOKENINFO_SUMMARYRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMP_ID" msprop:Generator_ColumnVarNameInTable="columnEMP_ID" msprop:Generator_ColumnPropNameInRow="EMP_ID" msprop:Generator_ColumnPropNameInTable="EMP_IDColumn" msprop:Generator_UserColumnName="EMP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOKEN_ID" msprop:Generator_ColumnVarNameInTable="columnTOKEN_ID" msprop:Generator_ColumnPropNameInRow="TOKEN_ID" msprop:Generator_ColumnPropNameInTable="TOKEN_IDColumn" msprop:Generator_UserColumnName="TOKEN_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VEMPNAME" msprop:Generator_ColumnVarNameInTable="columnVEMPNAME" msprop:Generator_ColumnPropNameInRow="VEMPNAME" msprop:Generator_ColumnPropNameInTable="VEMPNAMEColumn" msprop:Generator_UserColumnName="VEMPNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDESIGNATIONNAME" msprop:Generator_ColumnVarNameInTable="columnVDESIGNATIONNAME" msprop:Generator_ColumnPropNameInRow="VDESIGNATIONNAME" msprop:Generator_ColumnPropNameInTable="VDESIGNATIONNAMEColumn" msprop:Generator_UserColumnName="VDESIGNATIONNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDEPARTMENTNAME" msprop:Generator_ColumnVarNameInTable="columnVDEPARTMENTNAME" msprop:Generator_ColumnPropNameInRow="VDEPARTMENTNAME" msprop:Generator_ColumnPropNameInTable="VDEPARTMENTNAMEColumn" msprop:Generator_UserColumnName="VDEPARTMENTNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VUNITNAME" msprop:Generator_ColumnVarNameInTable="columnVUNITNAME" msprop:Generator_ColumnPropNameInRow="VUNITNAME" msprop:Generator_ColumnPropNameInTable="VUNITNAMEColumn" msprop:Generator_UserColumnName="VUNITNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GROUP_ID" msprop:Generator_ColumnVarNameInTable="columnGROUP_ID" msprop:Generator_ColumnPropNameInRow="GROUP_ID" msprop:Generator_ColumnPropNameInTable="GROUP_IDColumn" msprop:Generator_UserColumnName="GROUP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SELLDATE" msprop:Generator_ColumnVarNameInTable="columnSELLDATE" msprop:Generator_ColumnPropNameInRow="SELLDATE" msprop:Generator_ColumnPropNameInTable="SELLDATEColumn" msprop:Generator_UserColumnName="SELLDATE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEMQTY" msprop:Generator_ColumnVarNameInTable="columnITEMQTY" msprop:Generator_ColumnPropNameInRow="ITEMQTY" msprop:Generator_ColumnPropNameInTable="ITEMQTYColumn" msprop:Generator_UserColumnName="ITEMQTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UNIT_PRICE" msprop:Generator_ColumnVarNameInTable="columnUNIT_PRICE" msprop:Generator_ColumnPropNameInRow="UNIT_PRICE" msprop:Generator_ColumnPropNameInTable="UNIT_PRICEColumn" msprop:Generator_UserColumnName="UNIT_PRICE" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_PRD_TOKENINFO_DETAILS" msprop:Generator_TableClassName="VW_PRD_TOKENINFO_DETAILSDataTable" msprop:Generator_TableVarName="tableVW_PRD_TOKENINFO_DETAILS" msprop:Generator_TablePropName="VW_PRD_TOKENINFO_DETAILS" msprop:Generator_RowDeletingName="VW_PRD_TOKENINFO_DETAILSRowDeleting" msprop:Generator_RowChangingName="VW_PRD_TOKENINFO_DETAILSRowChanging" msprop:Generator_RowEvHandlerName="VW_PRD_TOKENINFO_DETAILSRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PRD_TOKENINFO_DETAILSRowDeleted" msprop:Generator_UserTableName="VW_PRD_TOKENINFO_DETAILS" msprop:Generator_RowChangedName="VW_PRD_TOKENINFO_DETAILSRowChanged" msprop:Generator_RowEvArgName="VW_PRD_TOKENINFO_DETAILSRowChangeEvent" msprop:Generator_RowClassName="VW_PRD_TOKENINFO_DETAILSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMP_ID" msprop:Generator_ColumnVarNameInTable="columnEMP_ID" msprop:Generator_ColumnPropNameInRow="EMP_ID" msprop:Generator_ColumnPropNameInTable="EMP_IDColumn" msprop:Generator_UserColumnName="EMP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOKEN_ID" msprop:Generator_ColumnVarNameInTable="columnTOKEN_ID" msprop:Generator_ColumnPropNameInRow="TOKEN_ID" msprop:Generator_ColumnPropNameInTable="TOKEN_IDColumn" msprop:Generator_UserColumnName="TOKEN_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VEMPNAME" msprop:Generator_ColumnVarNameInTable="columnVEMPNAME" msprop:Generator_ColumnPropNameInRow="VEMPNAME" msprop:Generator_ColumnPropNameInTable="VEMPNAMEColumn" msprop:Generator_UserColumnName="VEMPNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDESIGNATIONNAME" msprop:Generator_ColumnVarNameInTable="columnVDESIGNATIONNAME" msprop:Generator_ColumnPropNameInRow="VDESIGNATIONNAME" msprop:Generator_ColumnPropNameInTable="VDESIGNATIONNAMEColumn" msprop:Generator_UserColumnName="VDESIGNATIONNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDEPARTMENTNAME" msprop:Generator_ColumnVarNameInTable="columnVDEPARTMENTNAME" msprop:Generator_ColumnPropNameInRow="VDEPARTMENTNAME" msprop:Generator_ColumnPropNameInTable="VDEPARTMENTNAMEColumn" msprop:Generator_UserColumnName="VDEPARTMENTNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VUNITNAME" msprop:Generator_ColumnVarNameInTable="columnVUNITNAME" msprop:Generator_ColumnPropNameInRow="VUNITNAME" msprop:Generator_ColumnPropNameInTable="VUNITNAMEColumn" msprop:Generator_UserColumnName="VUNITNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEM_NAME" msprop:Generator_ColumnVarNameInTable="columnITEM_NAME" msprop:Generator_ColumnPropNameInRow="ITEM_NAME" msprop:Generator_ColumnPropNameInTable="ITEM_NAMEColumn" msprop:Generator_UserColumnName="ITEM_NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEMQTY" msprop:Generator_ColumnVarNameInTable="columnITEMQTY" msprop:Generator_ColumnPropNameInRow="ITEMQTY" msprop:Generator_ColumnPropNameInTable="ITEMQTYColumn" msprop:Generator_UserColumnName="ITEMQTY" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UNIT_PRICE" msprop:Generator_ColumnVarNameInTable="columnUNIT_PRICE" msprop:Generator_ColumnPropNameInRow="UNIT_PRICE" msprop:Generator_ColumnPropNameInTable="UNIT_PRICEColumn" msprop:Generator_UserColumnName="UNIT_PRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SELLDATE" msprop:Generator_ColumnVarNameInTable="columnSELLDATE" msprop:Generator_ColumnPropNameInRow="SELLDATE" msprop:Generator_ColumnPropNameInTable="SELLDATEColumn" msprop:Generator_UserColumnName="SELLDATE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GROUP_ID" msprop:Generator_ColumnVarNameInTable="columnGROUP_ID" msprop:Generator_ColumnPropNameInRow="GROUP_ID" msprop:Generator_ColumnPropNameInTable="GROUP_IDColumn" msprop:Generator_UserColumnName="GROUP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_PRD_TOKENINFOLIST" msprop:Generator_TableClassName="VW_PRD_TOKENINFOLISTDataTable" msprop:Generator_TableVarName="tableVW_PRD_TOKENINFOLIST" msprop:Generator_RowChangedName="VW_PRD_TOKENINFOLISTRowChanged" msprop:Generator_TablePropName="VW_PRD_TOKENINFOLIST" msprop:Generator_RowDeletingName="VW_PRD_TOKENINFOLISTRowDeleting" msprop:Generator_RowChangingName="VW_PRD_TOKENINFOLISTRowChanging" msprop:Generator_RowEvHandlerName="VW_PRD_TOKENINFOLISTRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PRD_TOKENINFOLISTRowDeleted" msprop:Generator_RowClassName="VW_PRD_TOKENINFOLISTRow" msprop:Generator_UserTableName="VW_PRD_TOKENINFOLIST" msprop:Generator_RowEvArgName="VW_PRD_TOKENINFOLISTRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMP_ID" msprop:Generator_ColumnVarNameInTable="columnEMP_ID" msprop:Generator_ColumnPropNameInRow="EMP_ID" msprop:Generator_ColumnPropNameInTable="EMP_IDColumn" msprop:Generator_UserColumnName="EMP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOKEN_ID" msprop:Generator_ColumnVarNameInTable="columnTOKEN_ID" msprop:Generator_ColumnPropNameInRow="TOKEN_ID" msprop:Generator_ColumnPropNameInTable="TOKEN_IDColumn" msprop:Generator_UserColumnName="TOKEN_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VEMPNAME" msprop:Generator_ColumnVarNameInTable="columnVEMPNAME" msprop:Generator_ColumnPropNameInRow="VEMPNAME" msprop:Generator_ColumnPropNameInTable="VEMPNAMEColumn" msprop:Generator_UserColumnName="VEMPNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDESIGNATIONNAME" msprop:Generator_ColumnVarNameInTable="columnVDESIGNATIONNAME" msprop:Generator_ColumnPropNameInRow="VDESIGNATIONNAME" msprop:Generator_ColumnPropNameInTable="VDESIGNATIONNAMEColumn" msprop:Generator_UserColumnName="VDESIGNATIONNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDEPARTMENTNAME" msprop:Generator_ColumnVarNameInTable="columnVDEPARTMENTNAME" msprop:Generator_ColumnPropNameInRow="VDEPARTMENTNAME" msprop:Generator_ColumnPropNameInTable="VDEPARTMENTNAMEColumn" msprop:Generator_UserColumnName="VDEPARTMENTNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VUNITNAME" msprop:Generator_ColumnVarNameInTable="columnVUNITNAME" msprop:Generator_ColumnPropNameInRow="VUNITNAME" msprop:Generator_ColumnPropNameInTable="VUNITNAMEColumn" msprop:Generator_UserColumnName="VUNITNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GROUP_ID" msprop:Generator_ColumnVarNameInTable="columnGROUP_ID" msprop:Generator_ColumnPropNameInRow="GROUP_ID" msprop:Generator_ColumnPropNameInTable="GROUP_IDColumn" msprop:Generator_UserColumnName="GROUP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ADD_DATE" msprop:Generator_ColumnVarNameInTable="columnADD_DATE" msprop:Generator_ColumnPropNameInRow="ADD_DATE" msprop:Generator_ColumnPropNameInTable="ADD_DATEColumn" msprop:Generator_UserColumnName="ADD_DATE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_PRD_TOKENINFO" msprop:Generator_TableClassName="VW_PRD_TOKENINFODataTable" msprop:Generator_TableVarName="tableVW_PRD_TOKENINFO" msprop:Generator_TablePropName="VW_PRD_TOKENINFO" msprop:Generator_RowDeletingName="VW_PRD_TOKENINFORowDeleting" msprop:Generator_RowChangingName="VW_PRD_TOKENINFORowChanging" msprop:Generator_RowEvHandlerName="VW_PRD_TOKENINFORowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PRD_TOKENINFORowDeleted" msprop:Generator_UserTableName="VW_PRD_TOKENINFO" msprop:Generator_RowChangedName="VW_PRD_TOKENINFORowChanged" msprop:Generator_RowEvArgName="VW_PRD_TOKENINFORowChangeEvent" msprop:Generator_RowClassName="VW_PRD_TOKENINFORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMP_ID" msprop:Generator_ColumnVarNameInTable="columnEMP_ID" msprop:Generator_ColumnPropNameInRow="EMP_ID" msprop:Generator_ColumnPropNameInTable="EMP_IDColumn" msprop:Generator_UserColumnName="EMP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOKEN_ID" msprop:Generator_ColumnVarNameInTable="columnTOKEN_ID" msprop:Generator_ColumnPropNameInRow="TOKEN_ID" msprop:Generator_ColumnPropNameInTable="TOKEN_IDColumn" msprop:Generator_UserColumnName="TOKEN_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GROUP_ID" msprop:Generator_ColumnVarNameInTable="columnGROUP_ID" msprop:Generator_ColumnPropNameInRow="GROUP_ID" msprop:Generator_ColumnPropNameInTable="GROUP_IDColumn" msprop:Generator_UserColumnName="GROUP_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VEMPNAME" msprop:Generator_ColumnVarNameInTable="columnVEMPNAME" msprop:Generator_ColumnPropNameInRow="VEMPNAME" msprop:Generator_ColumnPropNameInTable="VEMPNAMEColumn" msprop:Generator_UserColumnName="VEMPNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDEPARTMENTNAME" msprop:Generator_ColumnVarNameInTable="columnVDEPARTMENTNAME" msprop:Generator_ColumnPropNameInRow="VDEPARTMENTNAME" msprop:Generator_ColumnPropNameInTable="VDEPARTMENTNAMEColumn" msprop:Generator_UserColumnName="VDEPARTMENTNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VDESIGNATIONNAME" msprop:Generator_ColumnVarNameInTable="columnVDESIGNATIONNAME" msprop:Generator_ColumnPropNameInRow="VDESIGNATIONNAME" msprop:Generator_ColumnPropNameInTable="VDESIGNATIONNAMEColumn" msprop:Generator_UserColumnName="VDESIGNATIONNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VUNITNAME" msprop:Generator_ColumnVarNameInTable="columnVUNITNAME" msprop:Generator_ColumnPropNameInRow="VUNITNAME" msprop:Generator_ColumnPropNameInTable="VUNITNAMEColumn" msprop:Generator_UserColumnName="VUNITNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="COMMENTS" msprop:Generator_ColumnVarNameInTable="columnCOMMENTS" msprop:Generator_ColumnPropNameInRow="COMMENTS" msprop:Generator_ColumnPropNameInTable="COMMENTSColumn" msprop:Generator_UserColumnName="COMMENTS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ADD_USER" msprop:Generator_ColumnVarNameInTable="columnADD_USER" msprop:Generator_ColumnPropNameInRow="ADD_USER" msprop:Generator_ColumnPropNameInTable="ADD_USERColumn" msprop:Generator_UserColumnName="ADD_USER" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
